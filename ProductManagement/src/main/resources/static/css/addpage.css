@@ -1,0 +1,33 @@
+body {
+     background: url('https://c1.wallpaperflare.com/preview/811/367/789/technology-computer-creative-design.jpg') fixed;
+    background-size: cover;
+}
+
+*[role="form"] {
+    max-width: 530px;
+    padding: 20px;
+    margin: 1 auto;
+    border-radius: 0.3em;
+    background-color: rgb(128, 255, 255);
+}
+
+*[role="form"] h2 { 
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.register-heading,h3{
+	color:white;
+}
+.font,h2{
+	color:white;
+}
+.font1,p{
+	color:white;
+}
